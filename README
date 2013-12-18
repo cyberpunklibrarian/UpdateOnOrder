@@ -1,5 +1,7 @@
 Update On-Order Items in Polaris
 
+Written using AutoHotkey (www.autohotkey.com)
+
 This script, while very specific to the library I work, can be easily modified to do similar things within the Polaris System Admin panel. Basically, I don't expect anyone to use this as is, but to glean some ideas from it.
 
 The script will open the Polaris ILS Staff Client, launch SA, and carry out tasks needed to update the on-order items we promote through the Wowbrary service. Since the Wowbrary service publishes weekly, and the only thing that changes is the number in the URL; the behaviour can be predicted, isolated, and automated.
